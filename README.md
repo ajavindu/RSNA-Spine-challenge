@@ -1,2 +1,2 @@
-## RSNA Lumbar Spine Classification Challenge
+## RSNA Lumbar Spine Classification Challenge.
 
